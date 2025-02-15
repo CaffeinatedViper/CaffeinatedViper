@@ -1,7 +1,7 @@
 
 
 ## <p align="center">:wave: Hi there!</p>
-Hello! 👋 I'm Norbert, a 3rd-year Computer Science student at AGH University of Science and Technology. With a passion for software development, I've honed my skills in Object-Oriented Programming, Data Structures, and Algorithms. I aim for clean, maintainable, and efficient coding solutions.
+Hello! 👋 I'm Norbert, a Computer Science graduate from AGH University of Science and Technology. With a passion for software development, I have honed my skills in Object-Oriented Programming, Data Structures, and Algorithms. I strive to create clean, maintainable, and efficient coding solutions, with a strong focus on backend development, software testing, and automation.
 
 ## 💻 Skills
 **Languages**:
